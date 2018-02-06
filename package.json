@@ -1,0 +1,22 @@
+{
+  "name": "autominer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillCHansen/autominer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WillCHansen/autominer/issues"
+  },
+  "homepage": "https://github.com/WillCHansen/autominer#readme",
+  "dependencies": {
+    "gpu-info": "0.0.1"
+  }
+}
