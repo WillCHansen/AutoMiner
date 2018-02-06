@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/WillCHansen/autominer#readme",
   "dependencies": {
-    "gpu-info": "0.0.1"
+    "gpu-info": "0.0.1",
+    "request": "^2.83.0"
   }
 }
